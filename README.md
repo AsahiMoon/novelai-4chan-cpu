@@ -15,5 +15,5 @@ change  novelai-4chan ver to run on cpu and ram
 # tips
 
 - **models** file need to download from other way
-- use the**animefull-final-pruned** model may need more than 6GB ram
-- other**colab** ver maybe more useful
+- use the **animefull-final-pruned** model may need more than 6GB ram
+- other **colab** ver maybe more useful
